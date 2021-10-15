@@ -42,7 +42,7 @@ https://github.com/5ide6urnslab/Shabon
   scan on
 
 (5)autoConnector.shのBluetoothデバイスID（device変数）を追加する<br>
-
+  device="BluetoothデバイスID"
 
 (6)cronにbluetooth接続のための監視周期を追加する<br>
 　*/2 * * * * bash /usr/local/bin/autoConnector.sh
