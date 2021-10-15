@@ -56,15 +56,6 @@ https://www.raspberrypi.com
 © All Rights Reserved. Switch Joycon is a trademark of Nintendo.  
 © All Rights Reserved. Bluetooth is a trademark of Bluetooth SIG.
    
-
-## License
-##### About this manual and image files.
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Show Kawabata and ミラスタ！つながる ”こうえん” プロジェクト is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-##### About this software. 
-Released under the MIT license. http://opensource.org/licenses/mit-license.php
-
-
 ## Credit
 Electronics:   [Show Kawabata](http://www.showkawabata.net)  <br>
 Planning:      [ミラスタ！つながる ”こうえん” プロジェクト](https://mirasta2020.wixsite.com/inclusive)<br>
