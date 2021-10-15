@@ -55,7 +55,7 @@ https://www.raspberrypi.com
 © All Rights Reserved. 自動回転シャボン玉メーカーBUBLLE is a trademark of Daiso.  
 © All Rights Reserved. Astro E1 is a trademark of ANKER.  
 © All Rights Reserved. Switch Joycon is a trademark of Nintendo.  
-© All Rights Reserved. Bluetooth is a trademark of Bluetooth SIG.
+© All Rights Reserved. Bluetooth is a trademark of Bluetooth SIG. <br>
 Photo by Fabcafe Kyoto COUTER POINT.
    
 
