@@ -1,8 +1,7 @@
 # Shabon
 Fabcafe Kyoto主催 COUNTER POINTの「インクルーシブなアソビ」で製作したシャボン玉装置Shabon（シャボン）のレポジトリ。
 
-<img class="photo" src="https://github.com/5ide6urnslab/Shabon/blob/master/resource/inclusive_1.jpg" width="480px" />
-
+![image](https://github.com/5ide6urnslab/Shabon/blob/master/resource/inclusive_1.jpg)
 
 https://fabcafe.com/jp/magazine/report/20210929_counter-point-report
 
