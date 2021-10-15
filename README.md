@@ -43,7 +43,7 @@ https://github.com/5ide6urnslab/Shabon
 
 ## Running the Project
 操作マニュアルを参照し、Shabonシステムを動作させる。<br>
-https://github.com/5ide6urnslab/Shabon/manual/20211008_Shabon-Manual.pdf
+https://github.com/5ide6urnslab/Shabon/blob/master/manual/20211008_Shabon-Manual.pdf
 
 
 ## Reference
