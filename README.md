@@ -37,10 +37,17 @@ https://github.com/5ide6urnslab/Shabon
 ・switchJoycon.py<br>
 ・blinkLed.py<br>
 
-(4)cronにbluetooth接続のための監視周期を追加する<br>
+(4)Joy-ConのBluetoothデバイスIDを取得する<br>
+  bluetoothctl
+  scan on
+
+(5)autoConnector.shのBluetoothデバイスID（device変数）を追加する<br>
+
+
+(6)cronにbluetooth接続のための監視周期を追加する<br>
 　*/2 * * * * bash /usr/local/bin/autoConnector.sh
  
-(5)cronを開始する<br>
+(7)cronを開始する<br>
 　/etc/init.d/cron start
  
 
