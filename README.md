@@ -38,11 +38,11 @@ https://github.com/5ide6urnslab/Shabon
 &ensp;・blinkLed.py<br>
 
 (4)Joy-ConのBluetoothデバイスIDを取得する<br>
-&ensp;  bluetoothctl<br>
-&ensp;  scan on<br>
+&ensp; bluetoothctl<br>
+&ensp; scan on<br>
 
 (5)autoConnector.shのBluetoothデバイスID（device変数）を追加する<br>
-&ensp;　device="BluetoothデバイスID"
+&ensp; device="BluetoothデバイスID"
 
 (6)cronにbluetooth接続のための監視周期を追加する<br>
 　*/2 * * * * bash /usr/local/bin/autoConnector.sh
