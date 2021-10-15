@@ -4,7 +4,7 @@ https://fabcafe.com/jp/magazine/report/20210929_counter-point-report
 
 
 
-![image](https://github.com/5ide6urnslab/Shabon/resource/inclusive_1.jpg)
+![image](/resource/inclusive_1.jpg)
 
 
 ## Description
