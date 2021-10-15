@@ -2,18 +2,16 @@
 Fabcafe Kyoto主催 COUNTER POINTの「インクルーシブなアソビ」で製作したシャボン玉装置Shabon（シャボン）のレポジトリ。
 https://fabcafe.com/jp/magazine/report/20210929_counter-point-report
 
-
-
 ![image](/resource/inclusive_1.jpg)
 
 
 ## Description
 ダイソー製シャボン玉装置BUBBLEを改造して、任天堂Switch Joy-Conで操作するためのシステム「Shabon」となる。raspberry pi zeroとJoy-ConをBlutoothで接続し、シャボン玉装置のDCモーターをトランジスタ「2SC2655L-Y-T9N-K」で制御する。トランジスタは熱を持つため、ヒートシンクを付ける事を推奨(放熱接着剤などでヒートシンクを付けば良い)。このシステムは、「インクルーシブなアソビ」プロジェクトを通して、企画での検証や開発中となります。
 
-<img class="photo" src="https://github.com/5ide6urnslab/Shabon/blob/master/resource/Shabon_bb.jpg" width="480px" />
+![image2](/resource/Shabon_bb.jpg)
 
 
-#### 抵抗（R1）について
+##### 抵抗（R1）について
 抵抗R1はDCモーターの定格負荷時電流から求める。負荷電流は0.7Aのため、トランジスタのコレクターには0.7A以上流れる様にベース電流を調整する必要がある。トランジスタ「2SC2655L-Y-T9N-K」のデータシートに記載されているコレクタ電流と電圧の関係グラフからモーターを4.5vでコレクタ電流0.7Aの場合、ベース電流は6mAとなる(raspi zeroのGPIOは8mA)。R1抵抗は1kΩとなる。
 
 #### 抵抗（R2）について
