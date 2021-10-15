@@ -40,6 +40,9 @@ https://github.com/5ide6urnslab/Shabon
 (4)cronにbluetooth接続のための監視周期を追加する<br>
 　*/2 * * * * bash /usr/local/bin/autoConnector.sh
  
+(5)cronを開始する<br>
+　/etc/init.d/cron start
+ 
 
 ## Running the Project
 操作マニュアルを参照し、Shabonシステムを動作させる。<br>
