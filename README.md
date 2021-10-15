@@ -25,8 +25,10 @@ Fabcafe Kyoto主催 COUNTER POINTの「インクルーシブなアソビ」で�
 
 
 ## Installation
-(1) raspi zeroのベース環境を構築する （ベース環境はraspi Desktopで問題ない。起動速度を上げたい場合は、ライト版の環境を推奨）<br>
+(1) raspi zeroのベース環境を構築する<br>
 https://www.raspberrypi.com
+
+※ベース環境はraspi Desktopで問題ない。起動速度を上げたい場合は、ライト版の環境を推奨。<br>
 
 (2) 必要なソースコードをダウンロードする  
 https://github.com/5ide6urnslab/Shabon
