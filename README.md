@@ -6,7 +6,7 @@ https://fabcafe.com/jp/magazine/report/20210929_counter-point-report
 
 
 ## Description
-ダイソー製シャボン玉装置BUBBLEを改造して、任天堂Switch Joy-Conで操作するためのシステム「Shabon」となる。raspberry pi zeroとJoy-ConをBlutoothで接続し、シャボン玉装置のDCモーターをトランジスタ「2SC2655L-Y-T9N-K」で制御する。トランジスタは熱を持つため、ヒートシンクを付ける事を推奨(放熱接着剤などでヒートシンクを付けば良い)。このシステムは、「インクルーシブなアソビ」プロジェクトを通して、企画での検証や開発中となります。
+ダイソー製シャボン玉装置BUBBLEを改造して、任天堂Switch Joy-Conで操作するためのシステム「Shabon」となる。raspberry pi zeroとJoy-ConをBlutoothで接続し、シャボン玉装置のDCモーターをトランジスタ「2SC2655L-Y-T9N-K」で制御する。トランジスタは熱を持つため、ヒートシンクを付ける事を推奨(放熱接着剤などでヒートシンクを付けば良い)。このシステムは、「インクルーシブなアソビ」プロジェクトを通して、企画での検証中。
 
 ![image2](/resource/Shabon_bb.jpg)
 
