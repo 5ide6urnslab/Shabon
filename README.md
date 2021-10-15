@@ -52,15 +52,12 @@ https://www.raspberrypi.com
 
 
 ## Copyright
-© 2015 All Rights Reserved. iRobot, Roomba and Create are registered trademarks of iRobot Corporation.  
-   http://www.irobot.com/About-iRobot/ST...
+© All Rights Reserved. 自動回転シャボン玉メーカーBUBLLE is a trademark of Daiso.  
+© All Rights Reserved. Astro E1 is a trademark of ANKER.  
+© All Rights Reserved. Switch Joycon is a trademark of Nintendo.  
+© All Rights Reserved. Bluetooth is a trademark of Bluetooth SIG.
+Photo by Fabcafe Kyoto COUTER POINT.
    
-© 2013 Makeblock Co., Ltd. All Rights Reserved.  
-   http://www.makeblock.cc
-
-© 2015 All Rights Reserved. Sparkfun is a trademark of Sparkfun Electronics.  
-   https://www.sparkfun.com
-
 
 ## License
 ##### About this manual and image files.
