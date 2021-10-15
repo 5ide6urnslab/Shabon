@@ -32,10 +32,10 @@ https://www.raspberrypi.com
 https://github.com/5ide6urnslab/Shabon
 
 (3) raspi zeroにSSH接続し、（2）でダウンロードした下記ファイルを/usr/loca/bin/にコピーする<br>
-・autoConnector.sh
-・putonLed.py
-・switchJoycon.py
-・blinkLed.py
+・autoConnector.sh<br>
+・putonLed.py<br>
+・switchJoycon.py<br>
+・blinkLed.py<br>
 
 (4)cronにbluetooth接続のための監視周期を追加する<br>
 　*/2 * * * * bash /usr/local/bin/autoConnector.sh
