@@ -67,5 +67,5 @@ Released under the MIT license. http://opensource.org/licenses/mit-license.php
 
 ## Credit
 Electronics:   [Show Kawabata](http://www.showkawabata.net)  
-Planning:      ミラスタ！つながる ”こうえん” プロジェクト(https://mirasta2020.wixsite.com/inclusive)
-Residence:     Fabcafe Kyoto COUNTER POINT
+Planning:      [ミラスタ！つながる ”こうえん” プロジェクト](https://mirasta2020.wixsite.com/inclusive)
+Residence:     [Fabcafe Kyoto COUNTER POINT](https://fabcafe.com/jp/labs/kyoto/counterpoint)
