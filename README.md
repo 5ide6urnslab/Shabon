@@ -32,17 +32,17 @@ https://www.raspberrypi.com
 https://github.com/5ide6urnslab/Shabon
 
 (3) raspi zeroにSSH接続し、2)でダウンロードした下記ファイルを/usr/loca/bin/にコピーする<br>
-・autoConnector.sh<br>
-・putonLed.py<br>
-・switchJoycon.py<br>
-・blinkLed.py<br>
+&ensp;・autoConnector.sh<br>
+&ensp;・putonLed.py<br>
+&ensp;・switchJoycon.py<br>
+&ensp;・blinkLed.py<br>
 
 (4)Joy-ConのBluetoothデバイスIDを取得する<br>
-  bluetoothctl
-  scan on
+&ensp;  bluetoothctl<br>
+&ensp;  scan on<br>
 
 (5)autoConnector.shのBluetoothデバイスID（device変数）を追加する<br>
-  device="BluetoothデバイスID"
+&ensp;　device="BluetoothデバイスID"
 
 (6)cronにbluetooth接続のための監視周期を追加する<br>
 　*/2 * * * * bash /usr/local/bin/autoConnector.sh
