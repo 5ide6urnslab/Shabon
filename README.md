@@ -31,7 +31,7 @@ https://www.raspberrypi.com
 (2) 必要なソースコードをダウンロードする  
 https://github.com/5ide6urnslab/Shabon
 
-(3) raspi zeroにSSH接続し、（2）でダウンロードした下記ファイルを/usr/loca/bin/にコピーする<br>
+(3) raspi zeroにSSH接続し、2)でダウンロードした下記ファイルを/usr/loca/bin/にコピーする<br>
 ・autoConnector.sh<br>
 ・putonLed.py<br>
 ・switchJoycon.py<br>
@@ -50,13 +50,11 @@ https://github.com/5ide6urnslab/Shabon/blob/master/manual/20211008_Shabon-Manual
 (1) raspi zero Specifition <br>
 https://www.raspberrypi.com
 
-
 ## Copyright
 © All Rights Reserved. 自動回転シャボン玉メーカーBUBLLE is a trademark of Daiso.  
 © All Rights Reserved. Astro E1 is a trademark of ANKER.  
 © All Rights Reserved. Switch Joycon is a trademark of Nintendo.  
-© All Rights Reserved. Bluetooth is a trademark of Bluetooth SIG. <br>
-Photo by Fabcafe Kyoto COUTER POINT.
+© All Rights Reserved. Bluetooth is a trademark of Bluetooth SIG.
    
 
 ## License
