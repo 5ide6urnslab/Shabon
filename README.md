@@ -41,12 +41,12 @@ https://github.com/5ide6urnslab/Shabon
 　*/2 * * * * bash /usr/local/bin/autoConnector.sh
  
 ## Running the Project
-操作マニュアルを参照し、Shabonシステムを動作させる。
+操作マニュアルを参照し、Shabonシステムを動作させる。<br>
 http://www.irobot.com/About-iRobot/STEM/Create-2/Projects.aspx
 
 
 ## Reference
-(1) raspi zero Specifition
+(1) raspi zero Specifition <br>
 https://www.raspberrypi.com
 
 ## Copyright
