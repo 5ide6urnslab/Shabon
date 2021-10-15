@@ -43,7 +43,7 @@ https://github.com/5ide6urnslab/Shabon
 
 ## Running the Project
 操作マニュアルを参照し、Shabonシステムを動作させる。<br>
-http://www.irobot.com/About-iRobot/STEM/Create-2/Projects.aspx
+https://github.com/5ide6urnslab/Shabon/manual/20211008_Shabon-Manual.pdf
 
 
 ## Reference
