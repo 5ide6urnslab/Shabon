@@ -31,13 +31,13 @@ https://www.raspberrypi.com
 (2) 必要なソースコードをダウンロードする  
 https://github.com/5ide6urnslab/Shabon
 
-(3) raspi zeroにSSH接続し、（2）でダウンロードした下記ファイルを/usr/loca/bin/にコピーする
+(3) raspi zeroにSSH接続し、（2）でダウンロードした下記ファイルを/usr/loca/bin/にコピーする<br>
 ・autoConnector.sh
 ・putonLed.py
 ・switchJoycon.py
 ・blinkLed.py
 
-(4)cronにbluetooth接続のための監視周期を追加する
+(4)cronにbluetooth接続のための監視周期を追加する<br>
 　*/2 * * * * bash /usr/local/bin/autoConnector.sh
  
 ## Running the Project
@@ -67,7 +67,7 @@ https://www.raspberrypi.com
 Released under the MIT license. http://opensource.org/licenses/mit-license.php
 
 ## Credit
-Electronics:   [Show Kawabata](http://www.showkawabata.net)  
-Planning:      [ミラスタ！つながる ”こうえん” プロジェクト](https://mirasta2020.wixsite.com/inclusive)
-Residence:     [Fabcafe Kyoto COUNTER POINT](https://fabcafe.com/jp/labs/kyoto/counterpoint)
-Photo:         [Fabcafe Kyoto COUNTER POINT](https://fabcafe.com/jp/labs/kyoto/counterpoint)
+Electronics:   [Show Kawabata](http://www.showkawabata.net)  <br>
+Planning:      [ミラスタ！つながる ”こうえん” プロジェクト](https://mirasta2020.wixsite.com/inclusive)<br>
+Residence:     [Fabcafe Kyoto COUNTER POINT](https://fabcafe.com/jp/labs/kyoto/counterpoint)<br>
+Photo:         [Fabcafe Kyoto COUNTER POINT](https://fabcafe.com/jp/labs/kyoto/counterpoint)<br>
