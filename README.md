@@ -45,7 +45,7 @@ https://github.com/5ide6urnslab/Shabon
 &ensp;・switchJoycon.py<br>
 &ensp;・blinkLed.py<br>
 
-(4)Joy-ConのBluetoothデバイスIDを取得する<br>
+(4)Joy-ConのBluetoothデバイスIDをBluezで取得する<br>
 &ensp; bluetoothctl<br>
 &ensp; scan on<br>
 
