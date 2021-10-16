@@ -6,7 +6,7 @@ Fabcafe Kyoto主催 COUNTER POINTの「インクルーシブなアソビ」で�
 
 
 ## Description
-ダイソー製シャボン玉装置BUBBLEを改造して、任天堂Switch Joy-Conで操作するためのシステム「Shabon」となる。raspberry pi zeroとJoy-ConをBlutoothで接続し、シャボン玉装置のDCモーターをトランジスタ「2SC2655L-Y-T9N-K」で制御する。このシステムは、「インクルーシブなアソビ」プロジェクトを通して、企画での検証中。
+ダイソー製シャボン玉装置BUBBLEを改造して、任天堂Switch Joy-Conで操作するためのシステム「Shabon」となる。raspberry pi zeroとJoy-ConをBlutoothで接続し、シャボン玉装置のDCモーターをトランジスタ「2SC2655L-Y-T9N-K」で制御する。このシステムは、「インクルーシブなアソビ」プロジェクトを通して、開発と検証中。
 
 ![image2](/resource/Shabon_bb.jpg)
 
